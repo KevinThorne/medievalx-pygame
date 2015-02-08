@@ -1,6 +1,10 @@
 # medievalx-pygame
 Another old game that I made when I was learning how to code Python. -- *Released May 17, 2011*
 
+It does have some sort of documentation in win32/docs/tutorial.doc that I had written at the time of the release. It shows how to create custom levels and obviously how to play the game.
+
+Enjoy!
+
 -Kevin
 kevint@aptitekk.com
 
