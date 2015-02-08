@@ -1,16 +1,18 @@
 # medievalx-pygame
 Another old game that I made when I was learning how to code Python. -- *Released May 17, 2011*
 
-It does have some sort of documentation in win32/docs/tutorial.doc that I had written at the time of the release. It shows how to create custom levels and obviously how to play the game.
+It does have some sort of documentation in ```win32/docs/tutorial.doc``` that I had written at the time of the release. It shows how to create custom levels and obviously how to play the game.
 
 Enjoy!
 
 -Kevin
+
 kevint@aptitekk.com
 
-#### *Currently scouring for the source for this game...I have bits and pieces but I'm waiting for a PETA HHD adapter to come to my door step....sorry about that*
+###### *Currently scouring for the source for this game...I have bits and pieces but I'm waiting for a PETA HHD adapter to come to my door step....sorry about that*
 
 Pygame Page - http://www.pygame.org/project-Medieval+X-1864-3274.html
+
 Google Code Page - https://code.google.com/p/medievalx/
 
 ### Description:
