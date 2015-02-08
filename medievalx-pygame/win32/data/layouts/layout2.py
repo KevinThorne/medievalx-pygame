@@ -1,0 +1,13 @@
+layout=['bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb',
+        'bpggggggggggggggttgggggggggggb',
+        'bggggggggggggggttggggggggggggb',
+        'bgggggggggggggttgggggggggggggb',
+        'bggggggggggggttegggggggggggggb',
+        'bggggggggggtttgggggggggggggggb',
+        'bgggggggetttggggggggeggggggggb',
+        'bggggggggggggggggggggggggggggb',
+        'bgggggggwwgggggegggggggggggggb',
+        'bggggggwwggggggggggggggggggggb',
+        'bgggggwwgggggggggggggggggggggb',
+        'bggggwwggggggggggggggggggggggb',
+        'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb']
